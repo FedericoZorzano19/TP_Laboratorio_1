@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1601406173 source:c:\users\tomi_\desktop\tp_laboratorio_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1601345466 c:\users\tomi_\desktop\tp_laboratorio_2\funciones.h
+
+1601308625 source:c:\users\tomi_\desktop\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
+1601342815 c:\users\tomi_\desktop\tp_laboratorio_2\arrayemployees.h
+
+1601406648 source:c:\users\tomi_\desktop\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
